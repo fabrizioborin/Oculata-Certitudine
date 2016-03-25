@@ -20,7 +20,7 @@ Show causality, mechanism, explanation, systematic structure
 
 ## Multivariate Analysis (Escape Flatland)
 ##### p.129
-The analysis of cause and effect, initially bivariate, quickly became multivariate, though such necessary elaboration as the conditions under which the causal relation holds, interaction effects, multiple causes, multiple effects, causal sequencies, suorces of bias, spurious correlation, suorces of measurement error, competing variables, and whether the alleged cause is merely a proxy or a marker variable.
+The analysis of cause and effect, initially bivariate, quickly became multivariate, though such necessary elaboration as the conditions under which the causal relation holds, interaction effects, multiple causes, multiple effects, causal sequencies, suorces of bias, spurious correlation, sources of measurement error, competing variables, and whether the alleged cause is merely a proxy or a marker variable.
 
 ##### p.130
 The only thing that is 2-dimensional about evidence is the physical flatland of paper and computer screen.
@@ -74,7 +74,7 @@ G. Galileo
 ----------
 
 ##### p.128
-Quod tertio loco a nobis fuit observatum, est ipsiumet LACTEI Circuli essentia, seu materies, quam Perspicilli beneficio adeo ad sensum licet intueri, ut er altercationes omnes, quae per tot saecula philosophos excruciarunt, ab ***oculata certitudine*** dirimantur, nosque a verbosis disputationibus leberemur.
+Quod tertio loco a nobis fuit observatum, est ipsiumet LACTEI Circuli essentia, seu materies, quam Perspicilli beneficio adeo ad sensum licet intueri, ut er altercationes omnes, quae per tot saecula philosophos excruciarunt, ab ***oculata certitudine*** dirimantur, nosque a verbosis disputationibus liberemur.
 
 ##### p.129 Trad.
 Quel che fu da noi in terzo luogo osservato, è l'essenza, ossia la materia, della stessa Via LATTEA, che in virtù del cannocchiale è dato scrutare tanto sensibilmente, da esserne risolte, con la ***certezza che è data dagli occhi***, tutte le dispute che per tanti secoli tormentarono i filosofi, e noi liberati da verbose discussioni.
