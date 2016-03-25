@@ -4,40 +4,77 @@ Citazioni da Beautiful Evidence
 E. Tufte
 --------
 
-[//]: #comment should have this syntax
+[comment]: <> comment should have this syntax
 
-### p. 127
-1) Comparisons
+
+## Comparisons
+##### p. 127
 Show comparisons, contrasts,
 Compared with that? #verificare
-
->The essential point is to make intelligent and appropriate comparisons.
+The essential point is to make intelligent and appropriate comparisons.
 Thus visual displays, if they are to assist thinking, should show comparisons.
 
-### p. 128 
-2) Causality, Mechanism, Structure, Explanation
+## Causality, Mechanism, Structure, Explanation
+##### p. 128
 Show causality, mechanism, explanation, systematic structure
 
-### p.129
-3) Multivariate Analysis (Escape Flatland)
+## Multivariate Analysis (Escape Flatland)
+##### p.129
 The analysis of cause and effect, initially bivariate, quickly became multivariate, though such necessary elaboration as the conditions under which the causal relation holds, interaction effects, multiple causes, multiple effects, causal sequencies, suorces of bias, spurious correlation, suorces of measurement error, competing variables, and whether the alleged cause is merely a proxy or a marker variable.
 
-### p.130
+##### p.130
 The only thing that is 2-dimensional about evidence is the physical flatland of paper and computer screen.
 Flatlandy technologies of display encourage flatlandy thinking.
 Strategies of design should make multivariateness routine, nothing out the ordinary,
 To think multivariate, show multivariate.
 Show multivariate data: that is, show more than 1 or 2 variables.
 
-4) Integration of evidence
+## Integration of evidence
+##### 130
 The evidence doesn't care what it is - wheter word, number, image. In reasoning about substantive problems what matters entirely is the evidence, not *particular modes* of evidence.
 
-### p.131 
+##### p.131 
 Words, numbers, pictures, diagrams, graphics, charts, tables belong together.
 Completely integrates words, numbers, images, diagrams.
 
 Research questions are framed along the lines of "How can one type of information or one particular approach be used to explain something?" rather than "How can something be explained?"
 
-### p.132
+
+##Documentation
+##### p.132
+The credibility of an evidence presentation depends significantly on the quality and integrity of the authors and their data sources.
+Documentation is an essential mechanism of quality control for displays of evidence. Thus authors must be named, sponsors revealed, their interest and agendas unveiled, sources described, scales labeled, details enumerated.
+Thorough documentation is a good sign that a report was constructed with at least some care and craft.
+* what is the display about?
+* who did the work?
+* who's that?
+* where and when was the word done?
+* what are the data sources?
+* any assumptions?
+
+##### p. 133
+Authorship credit is too often absent from corporate and government reports; we should remember that *people* do things, not agencies, bureaus, departments, divisions.
+People may do better work when they receive public acknowledgment and take public responsibility for their work.
+In business and financial displays, the common errors and lies involve corrupt measurements scales: absence of labels, undfined or imprecise measurements, tendentiously chosen base-years, excessively short time series, inflated rather tha inflation-adjusted monetary units, ant time shifting of data (such as the notoriuos premature revenue recognition).
+
+Thoroughly describe the evidence. Provide a detailed title, indicate the authors and sponsors, document the data sources, show complete measurement scales, point out relevant issues.
+
+##### p.136 
+Analytical presentations ultimately stand or fall depending on the quality, relevance, and integrity or their content.
+What are the content-reasoning tasks that this display is supposed to help with?
+
+##### p. 137
+There is a symmetry of thinking in the wise production and the wise consumption of evidence.
 
 
+Citazioni da Sidereus Nuncius
+==============================
+
+G. Galileo
+----------
+
+##### p.128
+Quod tertio loco a nobis fuit observatum, est ipsiumet LACTEI Circuli essentia, seu materies, quam Perspicilli beneficio adeo ad sensum licet intueri, ut er altercationes omnes, quae per tot saecula philosophos excruciarunt, ab ***oculata certitudine*** dirimantur, nosque a verbosis disputationibus leberemur.
+
+##### p.129 Trad.
+Quel che fu da noi in terzo luogo osservato, è l'essenza, ossia la materia, della stessa Via LATTEA, che in virtù del cannocchiale è dato scrutare tanto sensibilmente, da esserne risolte, con la ***certezza che è data dagli occhi***, tutte le dispute che per tanti secoli tormentarono i filosofi, e noi liberati da verbose discussioni.
