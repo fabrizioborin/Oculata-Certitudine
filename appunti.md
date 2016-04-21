@@ -74,7 +74,7 @@ G. Galileo
 ----------
 
 ##### p.128
-Quod tertio loco a nobis fuit observatum, est ipsiumet LACTEI Circuli essentia, seu materies, quam Perspicilli beneficio adeo ad sensum licet intueri, ut er altercationes omnes, quae per tot saecula philosophos excruciarunt, ab ***oculata certitudine*** dirimantur, nosque a verbosis disputationibus liberemur.
+Quod tertio loco a nobis fuit observatum, est ipsiumet LACTEI Circuli essentia, seu materies, quam Perspicilli beneficio adeo ad sensum licet intueri, ut et altercationes omnes, quae per tot saecula philosophos excruciarunt, ab ***oculata certitudine*** dirimantur, nosque a verbosis disputationibus liberemur.
 
 ##### p.129 Trad.
 Quel che fu da noi in terzo luogo osservato, è l'essenza, ossia la materia, della stessa Via LATTEA, che in virtù del cannocchiale è dato scrutare tanto sensibilmente, da esserne risolte, con la ***certezza che è data dagli occhi***, tutte le dispute che per tanti secoli tormentarono i filosofi, e noi liberati da verbose discussioni.
